@@ -1,5 +1,3 @@
-LoginPage.java: Define los elementos de la página de login.
-
 package com.choucair.automation.userinterfaces;
 
 import net.serenitybdd.screenplay.targets.Target;
