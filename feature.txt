@@ -1,0 +1,8 @@
+login.feature
+
+Feature: Login and Recruitment
+
+  Scenario: Login and recruit a person
+    Given: que el reclutador se encuentra en la página de login
+    When: el reclutador agrega una persona con los siguientes datos
+    Then: el reclutador debe ver que la persona fue contratada
